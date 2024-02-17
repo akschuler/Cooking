@@ -1,2 +1,6 @@
 # Cooking
-Repo for recipies
+Repositor to manage and view recipies.
+
+## Recipe List
+
+Steak and Ale Soup
