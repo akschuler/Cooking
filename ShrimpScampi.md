@@ -16,7 +16,7 @@ Serve this delectable Shrimp Scampi over a bed of cooked pasta, fluffy rice, or 
 
 | Prep Time | Servings | Total Time |
 | :---: | :---: | :---: |
-| 15 Min | 8 | 60 Min |
+| 15 Min | 4 | 30 Min |
 
 ## Ingredients
 - [ ] 2 tablespoons butter
