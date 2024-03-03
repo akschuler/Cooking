@@ -1,5 +1,11 @@
 # Shrimp Scampi
 
+## Information
+
+| Prep Time | Servings | Total Time |
+| :---: | :---: | :---: |
+| 15 Min | 8 | 60 Min |
+
 ## Ingredients
 2 tablespoons butter
 2 tablespoons extra-virgin olive oil
